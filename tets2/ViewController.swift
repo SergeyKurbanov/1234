@@ -13,7 +13,18 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
     }
-
+scs zczm cz'z'cz
+    lazy var z
+        classz
+    class override func doesNotRecognizeSelector(_ aSelector: Selector!) {
+        zc
+        
+    }: <#super class#> {
+        <#code#>
+    }: <#type name#> = {
+        <#statements#>
+        return <#value#>
+    }()
 
 }
 
